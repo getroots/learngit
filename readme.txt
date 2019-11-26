@@ -13,4 +13,8 @@ You havd a nice breakfast today too.
 
 千山鸟飞绝
 
-add dev
+<<<<<<< HEAD
+add dev one
+=======
+one 
+>>>>>>> one
